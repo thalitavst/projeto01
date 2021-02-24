@@ -5,4 +5,4 @@ Esse é um projeto de estudo do git.\
 *Lista
 *Lista
 Vou adicionar uma imagem:
-[imagem](images/photo.jpg)
+(imagem)[images/photo.jpg]
